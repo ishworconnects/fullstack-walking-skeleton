@@ -4,7 +4,7 @@ A minimal full-stack application scaffold that connects a SvelteKit frontend, a 
 
 ## Project Overview
 
-This repository is designed as a working baseline for a full-stack web application. It keeps a given system intentionally small while proving that the frontend, backend, database, migrations, and browser tests can run together from the start.
+This repository is designed as a working baseline of a full-stack web application. It keeps a given system intentionally small while proving that the frontend, backend, database, migrations, and browser tests can run together from the start.
 
 ## Architecture
 
